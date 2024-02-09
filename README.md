@@ -1,4 +1,5 @@
 # Development of Database Application through SQL and C#
+
 Designed and built an implementation that fulfills basic database (CRUD) operations including list, insert, update and delete by means of interfaces and procedures implemented in C#, including user-defined functions, transactions, and synchronization control on the SQL side.
 
 Tools used in implementation:
