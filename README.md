@@ -15,7 +15,7 @@ Developed a comprehensive database system to track and report counterfeit curren
 - Enabled seamless data transfer from Excel to SQL Server, reducing errors by 30%
 - Secured access with user authentication and generated detailed reports
 
-## Tools used in implementation:
+## Tools Used in Implementation:
 
 - Microsoft SQL Server Management Studio 19.0.2
 - Microsoft Visual Studio Community 2022 (64-bit), Version 17.6.2
