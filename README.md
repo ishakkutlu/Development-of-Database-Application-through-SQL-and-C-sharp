@@ -1,8 +1,8 @@
-# Scalable Concept Database System for Efficient Counterfeit Tracking #
+# Scalable Concept Database System for Efficient Counterfeit Tracking
 
 Developed a comprehensive database system to track and report counterfeit currency using SQL and C#. Demonstrated advanced SQL querying, database design, and efficient data management techniques. Implemented essential database operations such as listing, adding, updating, and deleting records, effectively handling complex data structures and interactions.
 
-Key Highlights:
+## Key Highlights:
 
 - Completed three stages of data modeling:
 - Conceptual: Defined high-level structure and relationships
@@ -15,7 +15,7 @@ Key Highlights:
 - Enabled seamless data transfer from Excel to SQL Server, reducing errors by 30%
 - Secured access with user authentication and generated detailed reports
 
-Tools used in implementation:
+## Tools used in implementation:
 
 - Microsoft SQL Server Management Studio 19.0.2
 - Microsoft Visual Studio Community 2022 (64-bit), Version 17.6.2
