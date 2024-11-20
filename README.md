@@ -17,6 +17,6 @@ Key Highlights:
 
 Tools used in implementation:
 
-Microsoft SQL Server Management Studio 19.0.2
-Microsoft Visual Studio Community 2022 (64-bit), Version 17.6.2
-Microsoft Net Framework Version 4.8.04084
+- Microsoft SQL Server Management Studio 19.0.2
+- Microsoft Visual Studio Community 2022 (64-bit), Version 17.6.2
+- Microsoft Net Framework Version 4.8.04084
