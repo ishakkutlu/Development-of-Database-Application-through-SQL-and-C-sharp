@@ -4,16 +4,16 @@ Developed a comprehensive database system to track and report counterfeit curren
 
 Key Highlights:
 
-✦ Completed three stages of data modeling:
-◦ ◦ Conceptual: Defined high-level structure and relationships
-◦ ◦ Logical: Created detailed schema design
-◦ ◦ Physical: Implemented database considering performance and storage
-✦ Built a robust CRUD database model with stored procedures
-✦ Implemented error handling and data validation within SQL procedures to ensure data integrity
-✦ Enhanced database performance and reliability with complex transactions and synchronization control
-✦ Designed user-friendly interfaces in C# reducing data entry time by 40%, boosting efficiency
-✦ Enabled seamless data transfer from Excel to SQL Server, reducing errors by 30%
-✦ Secured access with user authentication and generated detailed reports
+- Completed three stages of data modeling:
+- Conceptual: Defined high-level structure and relationships
+- Logical: Created detailed schema design
+- Physical: Implemented database considering performance and storage
+- Built a robust CRUD database model with stored procedures
+- Implemented error handling and data validation within SQL procedures to ensure data integrity
+- Enhanced database performance and reliability with complex transactions and synchronization control
+- Designed user-friendly interfaces in C# reducing data entry time by 40%, boosting efficiency
+- Enabled seamless data transfer from Excel to SQL Server, reducing errors by 30%
+- Secured access with user authentication and generated detailed reports
 
 Tools used in implementation:
 
