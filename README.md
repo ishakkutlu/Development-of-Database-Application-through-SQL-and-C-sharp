@@ -5,9 +5,9 @@ Developed a comprehensive database system to track and report counterfeit curren
 ## Key Highlights:
 
 - Completed three stages of data modeling:
-- Conceptual: Defined high-level structure and relationships
-- Logical: Created detailed schema design
-- Physical: Implemented database considering performance and storage
+* Conceptual: Defined high-level structure and relationships
+* Logical: Created detailed schema design
+* Physical: Implemented database considering performance and storage
 - Built a robust CRUD database model with stored procedures
 - Implemented error handling and data validation within SQL procedures to ensure data integrity
 - Enhanced database performance and reliability with complex transactions and synchronization control
