@@ -2,7 +2,7 @@
 
 Developed a comprehensive database system to track and report counterfeit currency using SQL and C#. Demonstrated advanced SQL querying, database design, and efficient data management techniques. Implemented essential database operations such as listing, adding, updating, and deleting records, effectively handling complex data structures and interactions.
 
-## Key Highlights:
+## Key Highlights: 
 
 - Completed three stages of data modeling: 
   * Conceptual: Defined high-level structure and relationships
